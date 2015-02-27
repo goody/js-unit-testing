@@ -1,0 +1,26 @@
+{
+  "name": "js-unit-testing",
+  "version": "1.0.0",
+  "description": "The package for a blog post on JavaScript Unit Testing",
+  "main": "js/scripts.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "unit",
+    "testing"
+  ],
+  "author": "Scot Goodhart",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.5",
+    "karma-jshint-preprocessor": "0.0.5"
+  }
+}
