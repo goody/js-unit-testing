@@ -1,4 +1,6 @@
 # js-unit-testing
+[The Blog Post](http://community.rightpoint.com/blogs/viewpoint/archive/2015/02/27/the-tools-you-need-to-get-rolling-with-unit-testing-your-javascript.aspx)
+
 To run this test code clone the project.
 
 Then run:
